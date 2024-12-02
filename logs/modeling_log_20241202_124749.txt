@@ -1,0 +1,43 @@
+[2024-12-02 12:47:50] INFO: Successfully loaded package: tidyverse 
+[2024-12-02 12:47:50] INFO: Successfully loaded package: caret 
+[2024-12-02 12:47:50] INFO: Successfully loaded package: glmnet 
+[2024-12-02 12:47:50] INFO: Successfully loaded package: brms 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: lme4 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: MASS 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: geepack 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: performance 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: MatchIt 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: nnet 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: ggplot2 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: gridExtra 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: fmsb 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: rmarkdown 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: dplyr 
+[2024-12-02 12:47:51] INFO: Successfully loaded package: tidyr 
+[2024-12-02 12:47:51] INFO: Loading and validating data... 
+[2024-12-02 12:47:51] INFO: Successfully loaded data for all 
+[2024-12-02 12:47:51] INFO: Successfully loaded data for bundesliga 
+[2024-12-02 12:47:51] WARNING: File not found: processed_data/laliga_processed.rds 
+[2024-12-02 12:47:51] INFO: Successfully loaded data for ligue1 
+[2024-12-02 12:47:51] INFO: Successfully loaded data for premier 
+[2024-12-02 12:47:51] INFO: Successfully loaded data for seriea 
+[2024-12-02 12:47:51] INFO: Fitting No Polling models... 
+[2024-12-02 12:47:51] INFO: Fitting models for league: Premier League 
+[2024-12-02 12:47:51] INFO: Successfully fitted models for league: Premier League 
+[2024-12-02 12:47:51] INFO: Fitting models for league: Bundesliga 
+[2024-12-02 12:47:51] INFO: Successfully fitted models for league: Bundesliga 
+[2024-12-02 12:47:51] INFO: Fitting models for league: Serie A 
+[2024-12-02 12:47:51] INFO: Successfully fitted models for league: Serie A 
+[2024-12-02 12:47:51] INFO: Fitting models for league: Ligue 1 
+[2024-12-02 12:47:51] INFO: Successfully fitted models for league: Ligue 1 
+[2024-12-02 12:47:51] INFO: Fitting Partial Polling models... 
+[2024-12-02 12:47:51] INFO: Starting partial polling models fitting 
+[2024-12-02 12:47:51] INFO: Fitting multilevel Poisson regression... 
+[2024-12-02 12:47:51] INFO: Fitting multilevel multinomial regression... 
+[2024-12-02 12:47:51] INFO: Fitting GEE model... 
+[2024-12-02 12:47:52] INFO: Successfully fitted all partial polling models 
+[2024-12-02 12:47:52] INFO: Fitting Complete Polling models... 
+[2024-12-02 12:47:52] INFO: Starting complete polling models fitting 
+[2024-12-02 12:47:52] INFO: Fitting Poisson regression... 
+[2024-12-02 12:47:52] INFO: Fitting multinomial regression... 
+[2024-12-02 12:47:52] INFO: Fitting Bayesian multilevel model... 
