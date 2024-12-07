@@ -1,6 +1,0 @@
-[2024-12-02 12:40:39] INFO: Created directory: model_results 
-[2024-12-02 12:40:39] INFO: Created directory: analysis_results 
-[2024-12-02 12:40:39] INFO: Created directory: analysis_results/figures 
-[2024-12-02 12:40:39] INFO: Successfully loaded package: tidyverse 
-[2024-12-02 12:40:41] INFO: Successfully loaded package: caret 
-[2024-12-02 12:40:41] INFO: Successfully loaded package: glmnet 
